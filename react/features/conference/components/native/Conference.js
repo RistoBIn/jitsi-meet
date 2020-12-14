@@ -260,7 +260,7 @@ class Conference extends AbstractConference<Props, *> {
                 {/*
                   * If there is a ringing call, show the callee's info.
                   */
-                    <CalleeInfoContainer />
+                    // <CalleeInfoContainer />
                 }
 
                 {/*
